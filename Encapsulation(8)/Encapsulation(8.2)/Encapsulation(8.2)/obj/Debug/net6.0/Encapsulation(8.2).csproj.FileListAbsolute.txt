@@ -1,0 +1,14 @@
+C:\Users\guclh\Desktop\C#\Encapsulation(8)\Encapsulation(8.2)\Encapsulation(8.2)\bin\Debug\net6.0\Encapsulation(8.2).exe
+C:\Users\guclh\Desktop\C#\Encapsulation(8)\Encapsulation(8.2)\Encapsulation(8.2)\bin\Debug\net6.0\Encapsulation(8.2).deps.json
+C:\Users\guclh\Desktop\C#\Encapsulation(8)\Encapsulation(8.2)\Encapsulation(8.2)\bin\Debug\net6.0\Encapsulation(8.2).runtimeconfig.json
+C:\Users\guclh\Desktop\C#\Encapsulation(8)\Encapsulation(8.2)\Encapsulation(8.2)\bin\Debug\net6.0\Encapsulation(8.2).dll
+C:\Users\guclh\Desktop\C#\Encapsulation(8)\Encapsulation(8.2)\Encapsulation(8.2)\bin\Debug\net6.0\Encapsulation(8.2).pdb
+C:\Users\guclh\Desktop\C#\Encapsulation(8)\Encapsulation(8.2)\Encapsulation(8.2)\obj\Debug\net6.0\Encapsulation(8.2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guclh\Desktop\C#\Encapsulation(8)\Encapsulation(8.2)\Encapsulation(8.2)\obj\Debug\net6.0\Encapsulation(8.2).AssemblyInfoInputs.cache
+C:\Users\guclh\Desktop\C#\Encapsulation(8)\Encapsulation(8.2)\Encapsulation(8.2)\obj\Debug\net6.0\Encapsulation(8.2).AssemblyInfo.cs
+C:\Users\guclh\Desktop\C#\Encapsulation(8)\Encapsulation(8.2)\Encapsulation(8.2)\obj\Debug\net6.0\Encapsulation(8.2).csproj.CoreCompileInputs.cache
+C:\Users\guclh\Desktop\C#\Encapsulation(8)\Encapsulation(8.2)\Encapsulation(8.2)\obj\Debug\net6.0\Encapsulation(8.2).dll
+C:\Users\guclh\Desktop\C#\Encapsulation(8)\Encapsulation(8.2)\Encapsulation(8.2)\obj\Debug\net6.0\refint\Encapsulation(8.2).dll
+C:\Users\guclh\Desktop\C#\Encapsulation(8)\Encapsulation(8.2)\Encapsulation(8.2)\obj\Debug\net6.0\Encapsulation(8.2).pdb
+C:\Users\guclh\Desktop\C#\Encapsulation(8)\Encapsulation(8.2)\Encapsulation(8.2)\obj\Debug\net6.0\Encapsulation(8.2).genruntimeconfig.cache
+C:\Users\guclh\Desktop\C#\Encapsulation(8)\Encapsulation(8.2)\Encapsulation(8.2)\obj\Debug\net6.0\ref\Encapsulation(8.2).dll

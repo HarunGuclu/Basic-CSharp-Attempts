@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guclh\\Desktop\\C#\\Encapsulation(8)\\Encapsulation(8.1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EFF71C-C9D9-4BDD-81F6-1D507985A643}|Encapsulation(8.1)\\Encapsulation(8.1).csproj|c:\\users\\guclh\\desktop\\c#\\encapsulation(8)\\encapsulation(8.1)\\encapsulation(8.1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EFF71C-C9D9-4BDD-81F6-1D507985A643}|Encapsulation(8.1)\\Encapsulation(8.1).csproj|solutionrelative:encapsulation(8.1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EFF71C-C9D9-4BDD-81F6-1D507985A643}|Encapsulation(8.1)\\Encapsulation(8.1).csproj|c:\\users\\guclh\\desktop\\c#\\encapsulation(8)\\encapsulation(8.1)\\encapsulation(8.1)\\bank_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EFF71C-C9D9-4BDD-81F6-1D507985A643}|Encapsulation(8.1)\\Encapsulation(8.1).csproj|solutionrelative:encapsulation(8.1)\\bank_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank_Account.cs",
+              "DocumentMoniker": "C:\\Users\\guclh\\Desktop\\C#\\Encapsulation(8)\\Encapsulation(8.1)\\Encapsulation(8.1)\\Bank_Account.cs",
+              "RelativeDocumentMoniker": "Encapsulation(8.1)\\Bank_Account.cs",
+              "ToolTip": "C:\\Users\\guclh\\Desktop\\C#\\Encapsulation(8)\\Encapsulation(8.1)\\Encapsulation(8.1)\\Bank_Account.cs",
+              "RelativeToolTip": "Encapsulation(8.1)\\Bank_Account.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-24T09:37:05.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guclh\\Desktop\\C#\\Encapsulation(8)\\Encapsulation(8.1)\\Encapsulation(8.1)\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation(8.1)\\Program.cs",
+              "ToolTip": "C:\\Users\\guclh\\Desktop\\C#\\Encapsulation(8)\\Encapsulation(8.1)\\Encapsulation(8.1)\\Program.cs",
+              "RelativeToolTip": "Encapsulation(8.1)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-24T09:35:36.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\guclh\Desktop\C#\OgrenciProjesi\OgrenciProjesi\bin\Debug\net6.0\OgrenciProjesi.exe
+C:\Users\guclh\Desktop\C#\OgrenciProjesi\OgrenciProjesi\bin\Debug\net6.0\OgrenciProjesi.deps.json
+C:\Users\guclh\Desktop\C#\OgrenciProjesi\OgrenciProjesi\bin\Debug\net6.0\OgrenciProjesi.runtimeconfig.json
+C:\Users\guclh\Desktop\C#\OgrenciProjesi\OgrenciProjesi\bin\Debug\net6.0\OgrenciProjesi.dll
+C:\Users\guclh\Desktop\C#\OgrenciProjesi\OgrenciProjesi\bin\Debug\net6.0\OgrenciProjesi.pdb
+C:\Users\guclh\Desktop\C#\OgrenciProjesi\OgrenciProjesi\obj\Debug\net6.0\OgrenciProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guclh\Desktop\C#\OgrenciProjesi\OgrenciProjesi\obj\Debug\net6.0\OgrenciProjesi.AssemblyInfoInputs.cache
+C:\Users\guclh\Desktop\C#\OgrenciProjesi\OgrenciProjesi\obj\Debug\net6.0\OgrenciProjesi.AssemblyInfo.cs
+C:\Users\guclh\Desktop\C#\OgrenciProjesi\OgrenciProjesi\obj\Debug\net6.0\OgrenciProjesi.csproj.CoreCompileInputs.cache
+C:\Users\guclh\Desktop\C#\OgrenciProjesi\OgrenciProjesi\obj\Debug\net6.0\OgrenciProjesi.dll
+C:\Users\guclh\Desktop\C#\OgrenciProjesi\OgrenciProjesi\obj\Debug\net6.0\refint\OgrenciProjesi.dll
+C:\Users\guclh\Desktop\C#\OgrenciProjesi\OgrenciProjesi\obj\Debug\net6.0\OgrenciProjesi.pdb
+C:\Users\guclh\Desktop\C#\OgrenciProjesi\OgrenciProjesi\obj\Debug\net6.0\OgrenciProjesi.genruntimeconfig.cache
+C:\Users\guclh\Desktop\C#\OgrenciProjesi\OgrenciProjesi\obj\Debug\net6.0\ref\OgrenciProjesi.dll

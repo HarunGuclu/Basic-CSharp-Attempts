@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guclh\\Desktop\\C#\\List_ArrayList(7)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC88874-145C-48AD-B766-A2764D4B9022}|List_ArrayList\\List_ArrayList.csproj|c:\\users\\guclh\\desktop\\c#\\list_arraylist(7)\\list_arraylist\\list_arraylist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2FC88874-145C-48AD-B766-A2764D4B9022}|List_ArrayList\\List_ArrayList.csproj|solutionrelative:list_arraylist\\list_arraylist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List_ArrayList.csproj",
+              "DocumentMoniker": "C:\\Users\\guclh\\Desktop\\C#\\List_ArrayList(7)\\List_ArrayList\\List_ArrayList.csproj",
+              "RelativeDocumentMoniker": "List_ArrayList\\List_ArrayList.csproj",
+              "ToolTip": "C:\\Users\\guclh\\Desktop\\C#\\List_ArrayList(7)\\List_ArrayList\\List_ArrayList.csproj",
+              "RelativeToolTip": "List_ArrayList\\List_ArrayList.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-08-23T13:31:05.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
