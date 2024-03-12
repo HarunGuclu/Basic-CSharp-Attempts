@@ -1,0 +1,15 @@
+C:\Users\guclh\Desktop\C#\loops(2)\loops\while_infinite_loop\while_infinite_loop\bin\Debug\net6.0\while_infinite_loop.exe
+C:\Users\guclh\Desktop\C#\loops(2)\loops\while_infinite_loop\while_infinite_loop\bin\Debug\net6.0\while_infinite_loop.deps.json
+C:\Users\guclh\Desktop\C#\loops(2)\loops\while_infinite_loop\while_infinite_loop\bin\Debug\net6.0\while_infinite_loop.runtimeconfig.json
+C:\Users\guclh\Desktop\C#\loops(2)\loops\while_infinite_loop\while_infinite_loop\bin\Debug\net6.0\while_infinite_loop.dll
+C:\Users\guclh\Desktop\C#\loops(2)\loops\while_infinite_loop\while_infinite_loop\bin\Debug\net6.0\while_infinite_loop.pdb
+C:\Users\guclh\Desktop\C#\loops(2)\loops\while_infinite_loop\while_infinite_loop\obj\Debug\net6.0\while_infinite_loop.csproj.AssemblyReference.cache
+C:\Users\guclh\Desktop\C#\loops(2)\loops\while_infinite_loop\while_infinite_loop\obj\Debug\net6.0\while_infinite_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guclh\Desktop\C#\loops(2)\loops\while_infinite_loop\while_infinite_loop\obj\Debug\net6.0\while_infinite_loop.AssemblyInfoInputs.cache
+C:\Users\guclh\Desktop\C#\loops(2)\loops\while_infinite_loop\while_infinite_loop\obj\Debug\net6.0\while_infinite_loop.AssemblyInfo.cs
+C:\Users\guclh\Desktop\C#\loops(2)\loops\while_infinite_loop\while_infinite_loop\obj\Debug\net6.0\while_infinite_loop.csproj.CoreCompileInputs.cache
+C:\Users\guclh\Desktop\C#\loops(2)\loops\while_infinite_loop\while_infinite_loop\obj\Debug\net6.0\while_infinite_loop.dll
+C:\Users\guclh\Desktop\C#\loops(2)\loops\while_infinite_loop\while_infinite_loop\obj\Debug\net6.0\refint\while_infinite_loop.dll
+C:\Users\guclh\Desktop\C#\loops(2)\loops\while_infinite_loop\while_infinite_loop\obj\Debug\net6.0\while_infinite_loop.pdb
+C:\Users\guclh\Desktop\C#\loops(2)\loops\while_infinite_loop\while_infinite_loop\obj\Debug\net6.0\while_infinite_loop.genruntimeconfig.cache
+C:\Users\guclh\Desktop\C#\loops(2)\loops\while_infinite_loop\while_infinite_loop\obj\Debug\net6.0\ref\while_infinite_loop.dll

@@ -1,0 +1,15 @@
+C:\Users\guclh\Desktop\C#\Arrays(4)\Arrays(4)\bin\Debug\net6.0\Arrays(4).exe
+C:\Users\guclh\Desktop\C#\Arrays(4)\Arrays(4)\bin\Debug\net6.0\Arrays(4).deps.json
+C:\Users\guclh\Desktop\C#\Arrays(4)\Arrays(4)\bin\Debug\net6.0\Arrays(4).runtimeconfig.json
+C:\Users\guclh\Desktop\C#\Arrays(4)\Arrays(4)\bin\Debug\net6.0\Arrays(4).dll
+C:\Users\guclh\Desktop\C#\Arrays(4)\Arrays(4)\bin\Debug\net6.0\Arrays(4).pdb
+C:\Users\guclh\Desktop\C#\Arrays(4)\Arrays(4)\obj\Debug\net6.0\Arrays(4).csproj.AssemblyReference.cache
+C:\Users\guclh\Desktop\C#\Arrays(4)\Arrays(4)\obj\Debug\net6.0\Arrays(4).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guclh\Desktop\C#\Arrays(4)\Arrays(4)\obj\Debug\net6.0\Arrays(4).AssemblyInfoInputs.cache
+C:\Users\guclh\Desktop\C#\Arrays(4)\Arrays(4)\obj\Debug\net6.0\Arrays(4).AssemblyInfo.cs
+C:\Users\guclh\Desktop\C#\Arrays(4)\Arrays(4)\obj\Debug\net6.0\Arrays(4).csproj.CoreCompileInputs.cache
+C:\Users\guclh\Desktop\C#\Arrays(4)\Arrays(4)\obj\Debug\net6.0\Arrays(4).dll
+C:\Users\guclh\Desktop\C#\Arrays(4)\Arrays(4)\obj\Debug\net6.0\refint\Arrays(4).dll
+C:\Users\guclh\Desktop\C#\Arrays(4)\Arrays(4)\obj\Debug\net6.0\Arrays(4).pdb
+C:\Users\guclh\Desktop\C#\Arrays(4)\Arrays(4)\obj\Debug\net6.0\Arrays(4).genruntimeconfig.cache
+C:\Users\guclh\Desktop\C#\Arrays(4)\Arrays(4)\obj\Debug\net6.0\ref\Arrays(4).dll

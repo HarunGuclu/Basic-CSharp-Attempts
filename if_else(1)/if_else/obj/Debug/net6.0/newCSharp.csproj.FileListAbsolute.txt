@@ -1,0 +1,15 @@
+C:\Users\guclh\Desktop\newCSharp\newCSharp\bin\Debug\net6.0\newCSharp.exe
+C:\Users\guclh\Desktop\newCSharp\newCSharp\bin\Debug\net6.0\newCSharp.deps.json
+C:\Users\guclh\Desktop\newCSharp\newCSharp\bin\Debug\net6.0\newCSharp.runtimeconfig.json
+C:\Users\guclh\Desktop\newCSharp\newCSharp\bin\Debug\net6.0\newCSharp.dll
+C:\Users\guclh\Desktop\newCSharp\newCSharp\bin\Debug\net6.0\newCSharp.pdb
+C:\Users\guclh\Desktop\newCSharp\newCSharp\obj\Debug\net6.0\newCSharp.csproj.AssemblyReference.cache
+C:\Users\guclh\Desktop\newCSharp\newCSharp\obj\Debug\net6.0\newCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guclh\Desktop\newCSharp\newCSharp\obj\Debug\net6.0\newCSharp.AssemblyInfoInputs.cache
+C:\Users\guclh\Desktop\newCSharp\newCSharp\obj\Debug\net6.0\newCSharp.AssemblyInfo.cs
+C:\Users\guclh\Desktop\newCSharp\newCSharp\obj\Debug\net6.0\newCSharp.csproj.CoreCompileInputs.cache
+C:\Users\guclh\Desktop\newCSharp\newCSharp\obj\Debug\net6.0\newCSharp.dll
+C:\Users\guclh\Desktop\newCSharp\newCSharp\obj\Debug\net6.0\refint\newCSharp.dll
+C:\Users\guclh\Desktop\newCSharp\newCSharp\obj\Debug\net6.0\newCSharp.pdb
+C:\Users\guclh\Desktop\newCSharp\newCSharp\obj\Debug\net6.0\newCSharp.genruntimeconfig.cache
+C:\Users\guclh\Desktop\newCSharp\newCSharp\obj\Debug\net6.0\ref\newCSharp.dll
